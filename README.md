@@ -1,8 +1,4 @@
-for the glory of GO
+**this repo contains the notes and snippets of GO while i am learning it  **
 
-the tutorial i ll be using
-# Harnessing Golang: Essential Skills for Cloud Engineers and DevOps (Part 1/6)
-https://youtu.be/aUrOXNN_WhI
-
-
-
+# book 1
+## The Deeper Love of Go - John Arundel
