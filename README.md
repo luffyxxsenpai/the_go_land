@@ -2,4 +2,4 @@
 
 # book 1
 ## The Deeper Love of Go - John Arundel
-### ch:1 (ch-1)[./ch-1_Happy_Fun_Books.md]
+### ch:1  [ch-1](./ch-1_Happy_Fun_Books.md)
